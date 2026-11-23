@@ -192,7 +192,7 @@ export_results_table(aov_model, format = "markdown")
 # Compile full report with figures, ANOVA, and post-hoc comparisons
 compile_report(
   title  = "Yield Evaluation Across Agronomic Cultivars",
-  author = "Lung An",
+  author = "Lunganlung P G",
   output_format = "pdf"
 )
 ```
