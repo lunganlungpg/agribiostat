@@ -227,7 +227,7 @@ If you use `agristat` in your agricultural research, field trials, or graduate t
 ```bibtex
 @manual{agristat2026,
   title  = {agristat: Comprehensive Biostatistical Suite for Agricultural and Genetic Research},
-  author = {Lung An and Lung Pg},
+  author = {Lunganlung P G },
   year   = {2026},
   note   = {R package version 1.0.0},
   url    = {https://github.com/lunganlungpg/agristat}
